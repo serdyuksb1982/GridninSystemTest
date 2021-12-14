@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Specialist:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Specialist_jar</output-path>
+    <root id="archive" name="Specialist.jar">
+      <element id="module-output" name="Specialist" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/junit-jupiter-api-5.8.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
